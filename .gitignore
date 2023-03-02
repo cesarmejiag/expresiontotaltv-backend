@@ -1,0 +1,8 @@
+# Folders
+node_modules
+resources
+
+# Files
+package-lock.json
+.env
+app.yaml
